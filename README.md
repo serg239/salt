@@ -8,7 +8,7 @@ The proxy minion states are defined in:
 * __proxy_module.sls__ - proxy module (//_proxy dir)
 * __execution_module.sls__  - execution module (//_modules dir)
 * __state_module.sls__ - state module (//_states dir)
-* __grains_module.sls - grains module (//_grains dir)
+* __grains_module.sls__ - grains module (//_grains dir)
 
 and top.sls of the component's Pillars.
 
